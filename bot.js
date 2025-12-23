@@ -82,7 +82,10 @@ async function submitRegistration(api, coldKey, netuid, hotKey, startTime) {
                     const block = await api.rpc.chain.getBlock(blockHash);
                     const blockNumber = block.block.header.number.toNumber();
                     const success = events.find(({ event }) => api.events.system.ExtrinsicSuccess.is(event));
-                    if (success) console.log(`✅ Registration successful in block #${blockNumber}! (Elapsed: ${elapsed}s)`);
+                    if (success) {
+                        console.log(`✅ Registration successful in block #${blockNumber}! (Elapsed: ${elapsed}s)`);
+                        process.exit(0);
+                    }
                 } catch (error) {
                     console.error(`Error getting block number: ${error.message}`);
                     const success = events.find(({ event }) => api.events.system.ExtrinsicSuccess.is(event));
