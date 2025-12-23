@@ -136,7 +136,7 @@ Transaction Finalized in block #7155092.
 ## Dependencies
 
 - `@polkadot/api` ^16.5.4
-- `dot-env-syncer` ^9.12.3
+- `dot-env-syncer` ^9.12.4
 
 ## Troubleshooting
 
